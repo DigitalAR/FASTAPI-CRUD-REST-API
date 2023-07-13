@@ -1,0 +1,4 @@
+# Ignorar los directorios __pycache__ recursivamente
+**/__pycache__/
+*.pyc
+.vscode
